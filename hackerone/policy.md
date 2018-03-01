@@ -12,7 +12,9 @@ This disclosure program is limited to assets in the scope found at the bottom of
 * Security header configurations
 * Content Security Policy (CSP) bypass
 
-Feel free to use automated tools however not aggressively. If you wrote the tool/script yourself, aggressive tools are acceptable as long as you do not overly degrade the service or cause issues for other organisations, such as hosting providers, network operators or ISPs.
+Feel free to use automated tools as long as you do not cause network/service disruption.
+
+Testing must not cause issues for other organisations such as hosting providers, network operators or ISPs.
 
 # Disclosure Policy
 * Let me know of any potential vulnerabilities as soon as possible and I will make every effort to resolve the issue quickly.
