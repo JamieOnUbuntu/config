@@ -12,7 +12,7 @@ This disclosure program is limited to assets in the scope found at the bottom of
 * Security header configurations
 * Content Security Policy (CSP) bypass
 
-Feel free to use automated tools as long as you do not cause network/service disruption.
+Feel free to use automated tools as long as you do not cause network/service disruption for me or third-parties.
 
 Testing must not cause issues for other organisations such as hosting providers, network operators or ISPs.
 
