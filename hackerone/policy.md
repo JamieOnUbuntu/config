@@ -11,6 +11,7 @@ This disclosure program is limited to assets in the scope found at the bottom of
 * Tor Hidden Service de-anonymization
 * Security header configurations
 * Content Security Policy (CSP) bypass
+* DNS record configuration (SPF, DKIM, DMARC, CAA, etc)
 * Etc...
 
 Feel free to use automated tools as long as you do not cause network/service disruption for me or third-parties.
