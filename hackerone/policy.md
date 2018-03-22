@@ -7,11 +7,12 @@ This disclosure program is limited to assets in the scope found at the bottom of
 * Security misconfigurations
 * Suggested security improvements
 * Information leakage
-* Multi-byte exploitation
+* Multi-byte/binary exploitation
 * Tor Hidden Service de-anonymization
 * Security header configurations
 * Content Security Policy (CSP) bypass
 * DNS record configuration (SPF, DKIM, DMARC, CAA, etc)
+* TLS configuration
 * Etc...
 
 Feel free to use automated tools as long as you do not cause network/service disruption for me or third-parties.
