@@ -6,6 +6,5 @@
 | Domain | `jamiewebgbelqfno.onion` | Critical | Yes |
 | Domain | `jamie3vkiwibfiwucd6vxijskbhpjdyajmzeor4mc4i7yopvpo4p7cyd.onion` | Critical | Yes |
 | Source code | `https://github.com/JamieOnUbuntu/results-whitelist` | Critical | Yes |
-| Source code | `https://github.com/JamieOnUbuntu/irc-drawing-bot` | Critical | Yes |
 | CIDR | `139.162.222.67` | Critical | Yes |
 | CIDR | `2a01:7e00:e001:c500::1` | Critical | Yes |
