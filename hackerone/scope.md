@@ -1,6 +1,7 @@
 | Type | Identifier | Max. Severity | In Scope |
 |------|------------|---------------|----------|
 | Domain | `www.jamieweb.net` | Critical | Yes |
+| Domain | `jamieweb.net` | Critical | Yes |
 | Domain | `ipv6.jamieweb.net` | Critical | Yes |
 | Domain | `ipv4.jamieweb.net` | Critical | Yes |
 | Domain | `jamiewebgbelqfno.onion` | Critical | Yes |
