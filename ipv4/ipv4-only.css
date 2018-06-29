@@ -1,0 +1,4 @@
+span.ipv4-test:after {
+    background-color: limegreen;
+    content: "Yes";
+}
