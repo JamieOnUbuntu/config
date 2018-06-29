@@ -1,4 +1,4 @@
-span.ipv4-test:after {
+span.ipv6-test:after {
     background-color: limegreen;
     content: "Yes";
 }
